@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'rest_framework',
     'images.apps.ImagesConfig',
+    'analysis.apps.AnalysisConfig',
 ]
 
 MIDDLEWARE = [
