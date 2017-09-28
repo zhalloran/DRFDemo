@@ -1,0 +1,6 @@
+blinker==1.4
+Django==1.11.5
+djangorestframework==3.6.4
+blinker==1.4
+mongoengine==0.13.0
+psycopg2==2.7.3.1
